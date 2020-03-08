@@ -11,3 +11,6 @@ describe main purpose
 deployment can be on web server
 
 ## How To Contribute
+
+### Copyright
+2014 git training
