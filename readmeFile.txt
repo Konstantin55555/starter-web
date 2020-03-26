@@ -11,3 +11,6 @@ main purpose is to procide a simple example
 a simple web project
 
 ## How to Contribute
+
+## Copyright
+copyright
