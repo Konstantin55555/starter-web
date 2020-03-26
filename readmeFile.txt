@@ -5,7 +5,9 @@ This is a simple web project
 example to show difference
 
 ## Purpose
+main purpose is to procide a simple example
 
 ## Deployment
+a simple web project
 
 ## How to Contribute
