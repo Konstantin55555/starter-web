@@ -3,4 +3,7 @@
 # TEAM
 my team is a new one
 
+# THANKS
+to all
+
 User-agent: *
